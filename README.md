@@ -1,4 +1,5 @@
 # Sayi_Tahmin_Oyunu
-Mülakat ödevi
+Ödev
 
-Dosyalar iki farklı şekilde yuklendi. Birisi visiual studio solution project olarak digeride cpp ve exe dosyaları olarak.
+Dosyalar iki farklı şekilde yuklendi. Birisi visiual studio proje klasörü olarak digeride cpp ve exe dosyaları olarak yüklendi.
+S.Teke
