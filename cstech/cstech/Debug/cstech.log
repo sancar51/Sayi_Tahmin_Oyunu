@@ -1,0 +1,12 @@
+﻿  cstech.cpp
+C:\Users\samet\Desktop\deneme\cstech\cstech\cstech.cpp(74,11): warning C4244: '=': conversion from 'double' to 'uint64_t', possible loss of data
+C:\Users\samet\Desktop\deneme\cstech\cstech\cstech.cpp(75,11): warning C4244: '=': conversion from 'double' to 'uint64_t', possible loss of data
+C:\Users\samet\Desktop\deneme\cstech\cstech\cstech.cpp(86,33): warning C4244: '=': conversion from 'double' to 'uint64_t', possible loss of data
+C:\Users\samet\Desktop\deneme\cstech\cstech\cstech.cpp(142,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\samet\Desktop\deneme\cstech\cstech\cstech.cpp(150,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\samet\Desktop\deneme\cstech\cstech\cstech.cpp(168,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\samet\Desktop\deneme\cstech\cstech\cstech.cpp(269,47): warning C4244: '=': conversion from 'uint64_t' to 'uint8_t', possible loss of data
+C:\Users\samet\Desktop\deneme\cstech\cstech\cstech.cpp(307,51): warning C4244: '=': conversion from 'double' to 'uint64_t', possible loss of data
+C:\Users\samet\Desktop\deneme\cstech\cstech\cstech.cpp(333,30): warning C4244: '=': conversion from 'uint64_t' to 'unsigned int', possible loss of data
+C:\Users\samet\Desktop\deneme\cstech\cstech\cstech.cpp(415,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  cstech.vcxproj -> C:\Users\samet\Desktop\deneme\cstech\Debug\cstech.exe
